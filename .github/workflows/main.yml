@@ -1,4 +1,4 @@
-name : Firebase Deployment
+name : Deploy to Firebase Hosting on merge
 
 
 on:
