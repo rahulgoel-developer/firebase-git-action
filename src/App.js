@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Rahul Edited<code>src/App.js</code> and deploy the code on firebase
+         deploye on firebase
         </p>
         <a
           className="App-link"
